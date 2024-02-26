@@ -1,0 +1,2 @@
+name = "nimish"
+print (name)
